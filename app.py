@@ -1,25 +1,3 @@
-"""
-Streamlit Cheat Sheet
-
-App to summarise streamlit docs v1.25.0
-
-There is also an accompanying png and pdf version
-
-https://github.com/daniellewisDL/streamlit-cheat-sheet
-
-v1.25.0
-20 August 2023
-
-Author:
-    @daniellewisDL : https://github.com/daniellewisDL
-
-Contributors:
-    @arnaudmiribel : https://github.com/arnaudmiribel
-    @akrolsmir : https://github.com/akrolsmir
-    @nathancarter : https://github.com/nathancarter
-
-"""
-
 import streamlit as st
 from pathlib import Path
 import base64
@@ -97,7 +75,7 @@ pip install streamlit-nightly --upgrade
     st.sidebar.markdown('<small>Learn more about [experimental features](https://docs.streamlit.io/library/advanced-features/prerelease#beta-and-experimental-features)</small>', unsafe_allow_html=True)
 
     st.sidebar.markdown('''<hr>''', unsafe_allow_html=True)
-    st.sidebar.markdown('''<small>[Cheat sheet v1.25.0](https://github.com/daniellewisDL/streamlit-cheat-sheet)  | Aug 2023 | [Daniel Lewis](https://daniellewisdl.github.io/)</small>''', unsafe_allow_html=True)
+    st.sidebar.markdown('''<small>[Cheat sheet v1.25.0](https://github.com/daniellewisDL/streamlit-cheat-sheet)'''unsafe_allow_html=True)
 
     return None
 
