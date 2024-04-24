@@ -6,17 +6,8 @@ App to summarise streamlit docs v1.25.0
 
 There is also an accompanying png and pdf version
 
-https://github.com/daniellewisDL/streamlit-cheat-sheet
 
 v1.25.0 August 2023
-
-Author:
-* @daniellewisDL : https://github.com/daniellewisDL
-
-Contributors:
-* @arnaudmiribel : https://github.com/arnaudmiribel
-* @akrolsmir : https://github.com/akrolsmir
-* @nathancarter : https://github.com/nathancarter
 
 # Versioning
 * Based on Streamlit 1.25.0
@@ -327,10 +318,3 @@ st.info('Info message')
 st.success('Success message')
 st.exception(e)
 ```
-
-### Other key parts of the API
-<small>[State API](https://docs.streamlit.io/en/stable/session_state_api.html)</small><br>
-<small>[Theme option reference](https://docs.streamlit.io/en/stable/theme_options.html)</small><br>
-<small>[Components API reference](https://docs.streamlit.io/en/stable/develop_streamlit_components.html)</small><br>
-
----
