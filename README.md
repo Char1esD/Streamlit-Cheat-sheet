@@ -16,12 +16,6 @@ v1.25.0 August 2023
 # Requirements
 A clean venv with just pip and then Streamlit
 
-# Deployments
-[Streamlit Cheat Sheet - Sharing for Streamlit](https://share.streamlit.io/daniellewisdl/streamlit-cheat-sheet/master/app.py)
-
-# Show me
-![Streamlit Cheat Sheet](https://github.com/daniellewisDL/streamlit-cheat-sheet/blob/master/streamlit-cheat-sheet.png)
-
 ---
 
 # Cheat sheet content
